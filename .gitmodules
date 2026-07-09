@@ -1,4 +1,25 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/fdiwg/fdiwg.r-universe.dev
 	branch = HEAD
+[submodule "artfishr"]
+	path = artfishr
+	url = https://github.com/fdiwg/artfishr
+[submodule "fdi4R"]
+	path = fdi4R
+	url = https://github.com/fdiwg/fdi4R
+[submodule "fdisf"]
+	path = fdisf
+	url = https://github.com/fdiwg/fdisf
+[submodule "fdisfdata"]
+	path = fdisfdata
+	url = https://github.com/fdiwg/fdisfdata
+[submodule "fdishinyr"]
+	path = fdishinyr
+	url = https://github.com/fdiwg/fdishinyr
+[submodule "repfishr"]
+	path = repfishr
+	url = https://github.com/fdiwg/repfishr
+[submodule "vrule"]
+	path = vrule
+	url = https://github.com/fdiwg/vrule
